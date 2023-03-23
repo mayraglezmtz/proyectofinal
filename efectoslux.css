@@ -1,0 +1,18 @@
+p
+{
+	color:#FFFFFF;
+	font-size:14pt;
+	font-weight:200;
+	font-family:"Montserrat", sans-serif;
+}
+
+.boton{
+	background:black;
+	color:white;
+	font-weight:bold;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+	border:none;
+	font-family:"Gill Sans Extrabold", sans-serif;
+}
